@@ -1,7 +1,5 @@
 ## **Tema 1 IOCLA**
 ---
-### *Iordache Ioana-Diana, 315CC*
----
 
 Rezolvarea temei a durat aproximativ 2 zile.
 
